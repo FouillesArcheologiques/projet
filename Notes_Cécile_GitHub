@@ -7,6 +7,6 @@ Git et Git Hub
 - 1 commit = 1 modification
 - master = branche principale du projet
 
-- "Repository status" --> clic droit, unsave selected
+- "Repository status" --> clic droit + il faut mettre un message aussi : dans l'encart de gauche "Commit Message Editor" pour expliquer aux autres pourquoi cette modification , puis clique sur "Commiter 1,0"
 
-- La 1ère fois, on fait un pull, puis pousser
+- La 1ère fois, on fait un pull, puis pousser.
