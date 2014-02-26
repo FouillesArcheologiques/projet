@@ -1,0 +1,12 @@
+Git et Git Hub
+
+- Voir le pdf du prof (Clément Hallet)
+- Pas la même chose
+
+- Les synchronisations ne sont pas automatiques. -> Passer par Git Cola
+- 1 commit = 1 modification
+- master = branche principale du projet
+
+- "Repository status" --> clic droit, unsave selected
+
+- La 1ère fois, on fait un pull, puis pousser
